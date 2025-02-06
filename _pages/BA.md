@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 你好!!!
-* nihao
+* nihao!!!!!!
 * NIHAO
 
 Work experience
