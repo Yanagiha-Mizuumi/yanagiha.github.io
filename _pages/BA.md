@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-BA
 title: "BA"
 permalink: /BA/
 author_profile: true
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+写在前面
 ======
-* 你好!!!
-* nihao!!!!!!
-* NIHAO
+* Hey，欢迎你来参观我的BA小屋！
+* 大叔我叫做柳叶湖，来自BA的国服（B服）
+* 我的BA好友码是e6x59wk。由于好友位有限，所以会不定期清理一下很久不登录的友友，并且不接受同小组的好友申请，请见谅……
 
 Work experience
 ======
@@ -32,33 +32,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+最喜欢的角色
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 大叔我啊，果真还是最爱星野酱啦 :-D
 
-Publications
+战斗中喜欢用的角色
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 水星野  爱露  伊织  大瞬  春月  斯大萝  鹤城  春奈  小桃  红兔  保洁  美弥  168  响爷  小护士  温泉和香  水飞机
+* （排名不分先后）
