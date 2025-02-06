@@ -1,5 +1,4 @@
 ---
-layout: archive-BA
 title: "BA"
 permalink: /BA/
 author_profile: true
@@ -7,37 +6,72 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## BA
 
-写在前面
-======
-* Hey，欢迎你来参观我的BA小屋！
-* 大叔我叫做柳叶湖，来自BA的国服（B服）
-* 我的BA好友码是e6x59wk。由于好友位有限，所以会不定期清理一下很久不登录的友友，并且不接受同小组的好友申请，请见谅……
+##### 写在前面
+> Hey，欢迎你来参观我的BA小屋！
+> 大叔我叫做柳叶湖，来自BA的国服（B服）
+> 我的BA好友码是e6x59wk。由于好友位有限，所以会不定期清理一下很久不登录的友友，并且不接受同小组的好友申请，请见谅……
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#### 拿得出手的角色
+* 统计时间：2025/2/6
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 专三
+  * 星野 mmmm T777 好感41
+  * 水星野 mmmm T887 好感39
+  * 若藻 mmmm T887 好感32
+  * 泉奈 mmmm T887 好感30
+  * 爱露 mmmm T7772 好感30
+  * 真纪 mmmm T887 好感29
+  * 伊吕波 mmmm T777 好感28
+  * 伊织 mmmm T777 好感27
+  * 椿 mmmm T787 好感26
+  * 芹娜 mmm8 T777 好感25
+  * 睦月 4mm6 T777 好感25
+  * 切里诺 mmmm T887 好感24
+  * 春香 4mm9 T787 好感24
+  * 优香 mmm6 T7772 好感24
+  * 梓 mmmm T777 好感23
+  * 桃 4785 T744 好感23
+  * 佳代子 4585 T546 好感21
+  * 茜 mmmm T887 好感21
+  * 妮露 4mm7 T8772 好感21
+  * 千世 mmm8 T747 好感20
+  * 体莲见 mmmm T777 好感19
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 专二
+  * 未花 mmmm T887 好感32
+  * 水日奈 mmmm T7772 好感30
+  * 响 mmmm T777 好感28
+  * 亚子 mmmm T877 好感26
+  * 瞬 mmmm T777 好感26
+  * 晴奈 mm8m T877 好感25
+  * 春睦月 mmmm T877 好感25
+  * 小玉 m98m T767 好感24
+  * 花凛 478m T845 好感24
+  * 春晴奈 mmmm T777 好感23
+  * 兔妮露 m8mm T777 好感23
+  * 歌原 m8mm T7772 好感23
+  * 莲见 45m6 T555 好感22
+  * 纯子 4666 T8772 好感21
+  * 吹雪 3mmm T566 好感21
+
+* 专一
+  * 日鞠 mmmm T887 好感26
+  * 兔花凛 mmmm T767 好感25
+  * 温泉和香 mmmm T757 好感23
+  * 真白 mmmm T857 好感23
+  * 鹤城 mmmm T7772 好感23
+  * 真里奈 4787 T777 好感22
+  * 白子 mmmm T7772 好感22
+  * 菲娜 4777 T633 好感20
+  * 水绫音 477m T876 好感20
+  * 绿 47m5 T777 好感20
+  * 春风香 m58m T887 好感18
   
-最喜欢的角色
-======
+#### 最喜欢的角色
 * 大叔我啊，果真还是最爱星野酱啦 :-D
 
-
-战斗中喜欢用的角色
-======
+#### 战斗中喜欢用的角色
 * 水星野  爱露  伊织  大瞬  春月  斯大萝  鹤城  春奈  小桃  红兔  保洁  美弥  168  响爷  小护士  温泉和香  水飞机
 * （排名不分先后）
