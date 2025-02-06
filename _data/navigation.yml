@@ -19,6 +19,9 @@ main:
 
   - title: "BA"
     url: /BA/
+
+  - title: "Links"
+    url: /links/
     
   - title: "Guide"
     url: /markdown/
