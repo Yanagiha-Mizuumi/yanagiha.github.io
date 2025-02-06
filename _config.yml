@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "Yanagiha Mizuumi"
 title_separator          : "-"
 name                     : &name "Yanagiha Mizuumi"
@@ -22,7 +22,7 @@ repository               : "Yanagiha-Mizuumi/yanagiha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hoshino-profile.png"
   name             : "Yanagiha Mizuumi"
   pronouns         : "he/him"  
   bio              : #"Short biography for the left-hand sidebar"
