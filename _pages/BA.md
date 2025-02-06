@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 你好
+* 你好!!!
 * nihao
 * NIHAO
 
