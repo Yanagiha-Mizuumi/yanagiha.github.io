@@ -95,9 +95,7 @@ redirect_from:
 * （排名不分先后）
 
 ## Links（wiki）
- * [基沃托斯古书馆](https://kivo.wiki/)
- * [Schale DB](https://schaledb.com/home)
- * [GamekeeWiki](https://www.gamekee.com/ba/)
- * [蔚蓝档案-什亭之匣](https://arona.icu/)
- * <a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a>
- * [蔚蓝档案-什亭之匣](https://arona.icu/)
+ * <a href="https://kivo.wiki/" target="_blank">基沃托斯古书馆</a>
+ * <a href="https://schaledb.com/home" target="_blank">Schale DB</a>
+ * <a href="https://www.gamekee.com/ba/" target="_blank">GamekeeWiki</a>
+ * <a href="https://arona.icu/" target="_blank">蔚蓝档案-什亭之匣</a>
