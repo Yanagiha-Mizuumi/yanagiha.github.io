@@ -100,3 +100,4 @@ redirect_from:
  * [GamekeeWiki](https://www.gamekee.com/ba/)
  * [蔚蓝档案-什亭之匣](https://arona.icu/)
  * <a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a>
+ * [蔚蓝档案-什亭之匣](https://arona.icu/)
