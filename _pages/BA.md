@@ -19,7 +19,7 @@ redirect_from:
             break;
         }
         else{
-            sWord = prompt("请输入密码哦", "");
+            sWord = prompt("请输入密码哦！", "");
         }
     }
     if(!isCancle){
