@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <script>
-    var sWord = prompt("请输入密码哦", "");
+    var sWord = prompt("密码是1234567", "");
     var password = "1234567";
     var isCancle = false;
     while(sWord != password){
@@ -19,7 +19,7 @@ redirect_from:
             break;
         }
         else{
-            sWord = prompt("请输入密码哦！", "");
+            sWord = prompt("密码真的是1234567", "");
         }
     }
     if(!isCancle){
