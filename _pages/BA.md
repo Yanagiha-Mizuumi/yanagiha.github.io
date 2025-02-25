@@ -9,14 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-<script language="JavaScript">
-    function loopy() {
-        var sWord="1234";
-        while(sWord!="login"){
-            sWord=prompt("请输入你的登录密码");
-            alert("登陆成功!");
+<script>
+    var sWord = prompt("请输入密码哦", "");
+    var password = "1234567";
+    var isCancle = false;
+
+    while(sWord != password){
+        if(sWord == null){
+            isCancel = ture;
+            break;
         }
-        loopy();
+        else{
+            sWord = prompt("请输入密码哦", "");
+        }
+    }
+    if(!isCancel){
+        alert("欢迎光临！");
+    }
+    else{
+        location.replace("about:blank");
+        window.close();
     }
 </script>
 
