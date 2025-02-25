@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+<script language="JavaScript">
+        function loopy() {
+            var sWord="1234";
+            while(sWord!="login"){
+                sWord=prompt("请输入你的登录密码");
+                alert("登陆成功!");
+            }
+            loopy();
+        }
+    </script>
+
 ### 写在前面
 > Hey，欢迎你来参观我的BA小屋！
 
