@@ -15,14 +15,14 @@ redirect_from:
     var isCancle = false;
     while(sWord != password){
         if(sWord == null){
-            isCancel = ture;
+            isCancle = ture;
             break;
         }
         else{
             sWord = prompt("请输入密码哦", "");
         }
     }
-    if(!isCancel){
+    if(!isCancle){
         alert("欢迎光临！");
     }
     else{
@@ -32,7 +32,7 @@ redirect_from:
 </script>
 
 ### 写在前面
-> Hey，欢迎你来参观我的BA小屋！！！!!!
+> Hey，欢迎你来参观我的BA小屋！
 
 > 大叔我叫做柳叶湖，来自BA的国服（B服）
 
