@@ -13,7 +13,6 @@ redirect_from:
     var sWord = prompt("请输入密码哦", "");
     var password = "1234567";
     var isCancle = false;
-
     while(sWord != password){
         if(sWord == null){
             isCancel = ture;
@@ -33,7 +32,7 @@ redirect_from:
 </script>
 
 ### 写在前面
-> Hey，欢迎你来参观我的BA小屋！！！
+> Hey，欢迎你来参观我的BA小屋！！！!!!
 
 > 大叔我叫做柳叶湖，来自BA的国服（B服）
 
