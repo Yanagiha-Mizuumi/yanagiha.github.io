@@ -93,3 +93,9 @@ redirect_from:
 ======
 * 水大叔  爱露  伊织  大瞬  春月  斯大萝  鹤城  春奈  王小桃  红兔  保洁  团长  168  响爷  小护士  温泉和香  水飞机
 * （排名不分先后）
+
+## Links（wiki）
+ * [基沃托斯古书馆](https://kivo.wiki/)
+ * [Schale DB](https://schaledb.com/home)
+ * [GamekeeWiki](https://www.gamekee.com/ba/)
+ * [蔚蓝档案-什亭之匣](https://arona.icu/)
