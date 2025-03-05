@@ -60,7 +60,7 @@ redirect_from:
   * Vivado、……
   * 因某些不可抗拒原因，在此省略很多。
   * 最喜欢的软件：VScode。
-* Skill 3
+* ……
 
 发表
 ======
