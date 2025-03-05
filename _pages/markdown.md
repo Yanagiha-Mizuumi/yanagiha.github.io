@@ -24,7 +24,7 @@ redirect_from:
         alert("欢迎光临！");
     }
     else{
-        location.replace("about:blank");
+        location.replace("/homepage/");
         window.close();
     }
 </script>
