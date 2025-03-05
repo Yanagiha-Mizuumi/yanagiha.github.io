@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
@@ -12,9 +12,10 @@ redirect_from:
 教育
 ======
 * 工学学位&emsp;&emsp;北京理工大学（BIT）
-  * 北京 *2021.9 - 2025.6*
+  * 北京&emsp;*2021.9 - 2025.6*
   * 集成电路与电子学院
   * 微电子科学与工程专业
+  >> 上网不涉密，涉密不上网
 
 项目经验
 ======
