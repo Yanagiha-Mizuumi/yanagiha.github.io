@@ -31,5 +31,8 @@ redirect_from:
     }
 </script>
 
-
+* <a href="/files/CV1(English)20250306.pdf" target="_blank">CV(English)</a>
+  * 更新时间：2025-3-6
+* <a href="/files/CV1(Chinese)20250229.pdf" target="_blank">CV(Chinses)</a>
+  * 更新时间：2025-2-29
 
