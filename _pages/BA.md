@@ -26,7 +26,7 @@ redirect_from:
         alert("欢迎光临！");
     }
     else{
-        //location.replace("about:blank");
+        location.replace("about:blank");
         window.close();
     }
 </script>
@@ -40,7 +40,7 @@ redirect_from:
 
 拿得出手的角色
 ======
-* 统计时间：2025/3/5
+* 统计时间：2025/3/4
 
 * 专三
   * 星野 mmmm T887 好感44
