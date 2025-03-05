@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+## 正版CV下载（密码警告）
+ * <a href=/CV/myCV/ target="_blank">正版CV下载</a>
+
 教育
 ======
 * 工学学位&emsp;&emsp;北京理工大学（BIT）
