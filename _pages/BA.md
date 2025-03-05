@@ -26,7 +26,8 @@ redirect_from:
         alert("欢迎光临！");
     }
     else{
-        location.replace("Home");
+        location.replace(https:yanagiha.space);
+        //location.replace("about:blank");
         window.close();
     }
 </script>
