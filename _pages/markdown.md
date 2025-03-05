@@ -7,6 +7,28 @@ redirect_from:
   - /markdown.html
 ---
 
+<script>
+    var sWord = prompt("自用，自用，自用！", "请输入密码哦");
+    var password = "021123";
+    var isCancle = false;
+    while(sWord != password){
+        if(sWord == null){
+            isCancle = true;
+            break;
+        }
+        else{
+            sWord = prompt("真的是自用网页啦", "密码到底是多少呢？");
+        }
+    }
+    if(!isCancle){
+        alert("欢迎光临！");
+    }
+    else{
+        location.replace("about:blank");
+        window.close();
+    }
+</script>
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
