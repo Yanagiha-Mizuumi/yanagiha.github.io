@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "更正规的CV"
+title: "正版CV"
 permalink: /CV/myCV/
 author_profile: true
 redirect_from:
@@ -31,6 +31,20 @@ redirect_from:
     }
 </script>
 
+信息
+=====
+* 姓名：刘一赫&emsp;&emsp;&emsp;Name: Liu Yihe
+* 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;M/F: Male
+* 生日：2002.11.23&emsp;&emsp;Birth: 2002/11/23
+* 手机号：+86 18005305225&emsp;&emsp;Phone: +86 18005305225
+* 邮箱：1091771886@qq.com&emsp;yanagiha@163.com
+* Mail: 1091771886@qq.com&emsp;yanagiha@163.com
+* Bilibili: 绘月照星野
+
+* 更新时间：2025.3.6
+
+下载CV(PDF版)
+=====
 * <a href="/files/CV1(English)_20250306.pdf" target="_blank">CV(English)</a>
   * 更新时间：2025-3-6
 * <a href="/files/CV1(Chinese)_20250229.pdf" target="_blank">CV(Chinses)</a>

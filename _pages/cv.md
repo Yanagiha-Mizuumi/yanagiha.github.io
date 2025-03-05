@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## 正版CV下载（密码警告）
+## 正版CV（密码警告）
 * <a href="/CV/myCV/" target="_blank">正版CV</a>
+
+基本信息
+======
+* 姓名：（见正版CV）
 
 教育
 ======
