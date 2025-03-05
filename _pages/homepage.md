@@ -7,7 +7,7 @@ redirect_from:
   - /homepage.html
 ---
 
-## 本网站仍在开发中，除了BA模块。
+## 本网站仍在开发中，除了Research、CV、BA模块。
 
 # 上网不涉密，涉密不上网！
 
