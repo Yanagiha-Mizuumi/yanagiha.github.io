@@ -9,56 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 工学学位 北京理工大学（BIT）
+  * 北京 ~2021.9 - 2025.6~
+  * 集成电路与电子学院
+  * 微电子科学与工程专业
 
-Work experience
+项目经验
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 环境声音频率实时检测系统
+  * 2024 春
+  * 队友（化名）：六加六 子若安然
+  * 嵌入式系统、运放设计、C语言、数字信号处理。
+  * 硬件：树莓派Pico开发板（MCU型号RP2040）、面包板、电器元件。
+  * 我的负责：嵌入式系统编程（包括ADC代码、OLED显示、数字信号处理、环境音判断算法等）……
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 在指定FPGA上搭建指定的ARM系统并编写软件程序使其运行
+  * 2024 春、夏
+  * 队友：六加六
+  * Soc设计、FPGA系统、Verilog HDL、ARM架构、C语言。
+  * 硬件：EGO1开发板（FPGA芯型号XC7A35T-1CSG324C）。
+  * 我的负责：在FPGA上设计、搭建ARM Cortex-M0系统。
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 基于AXI总线的UART3模块前端设计
+  * 2024 夏
+  * 队友：无。
+  * 数字IC前端设计、Verilog HDL、AMBA总线协议。
+  * 我的负责：独自一人完成。
+
+* 用FPGA和MCU联合开发设计机器人小车系统
+  * 2024 秋、冬
+  * 队友：子若安然 六加六
+  * 嵌入式系统、C语言、FPGA设计、Verilog HDL、软硬件协同设计、M2M。
+  * 硬件（完全国产）：MCU（型号CH32103V）、FPGA（型号EQ6HL130）、BT（型号SPP3.0+BLE4.2）、IMU（型号JY901S）、编码器电机（型号GB37-520）、OLED（型号SSD1306）、激光测距仪（型号WT53D）、激光雷达（型号RPLIDAR-A1M8）……
+  * 我的负责：嵌入式系统编程（各模块驱动、数据处理、机器人控制算法等）、FPGA系统设计（数据处理、数据传输）……
+
+* 用于可穿戴电化学传感器的电路设计
+  * 2025 春
+  * 队友：无。
+  * 嵌入式系统、FPCB设计、C语言、软硬件协同设计。
+  * 硬件：自由选型ing……
+  * 我的负责：独自一人完成。电子器件选型、FPCB电路设计、嵌入式系统编程……
   
-Skills
+技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Verilog HDL，C语言，焊电路板，WSL……
+* 使用是软件：
+  * Vivado、……
+  * 因某些不可抗拒原因，在此省略很多。
+  * 最喜欢的软件：VScode。
 * Skill 3
 
-Publications
+发表
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 敬请期待 :-D
+
