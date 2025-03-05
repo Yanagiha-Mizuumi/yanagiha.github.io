@@ -15,7 +15,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cvv/
+    url: /cv/
 
   - title: "BA"
     url: /BA/
