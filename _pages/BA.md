@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <script>
-    var sWord = prompt("密码是1234", "");
+    var sWord = prompt("请输入密码哦", "");
     var password = "1234567";
     var isCancle = false;
     while(sWord != password){
@@ -19,15 +19,14 @@ redirect_from:
             break;
         }
         else{
-            sWord = prompt("密码真的是1234", "");
+            sWord = prompt("请输入密码", "密码到底是多少呢？");
         }
     }
     if(!isCancle){
         alert("欢迎光临！");
     }
     else{
-        location.replace("https://yanagiha.space");
-        //location.replace("about:blank");
+        location.replace("about:blank");
         window.close();
     }
 </script>
@@ -41,7 +40,7 @@ redirect_from:
 
 拿得出手的角色
 ======
-* 统计时间：2025/3/4
+* 统计时间：2025/3/5
 
 * 专三
   * 星野 mmmm T887 好感44
