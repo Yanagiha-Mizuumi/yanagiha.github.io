@@ -11,7 +11,7 @@ redirect_from:
 
 教育
 ======
-* 工&emsp学&emsp&emsp学&emsp&emsp&emsp位 &emsp北京理工大学（BIT）
+* 工学学位&emsp;&emsp;北京理工大学（BIT）
   * 北京 *2021.9 - 2025.6*
   * 集成电路与电子学院
   * 微电子科学与工程专业
