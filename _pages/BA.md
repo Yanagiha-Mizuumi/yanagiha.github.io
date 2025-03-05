@@ -27,7 +27,6 @@ redirect_from:
     }
     else{
         location.replace("/homepage/");
-        //location.replace("about:blank");
         window.close();
     }
 </script>
