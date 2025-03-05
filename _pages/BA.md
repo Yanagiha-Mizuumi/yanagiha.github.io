@@ -40,7 +40,7 @@ redirect_from:
 
 整理的BA资料
 ======
-* <a href="/files/BA_20250306.pdf" target="_blank">BA资料</a>
+* <a href="/files/BA.pdf" target="_blank">BA资料</a>
   * 更新时间：2025-3-6
   * 文件中包括一些我本人的国服账号的信息（毕竟本来是自用文件啦）
 
