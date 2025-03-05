@@ -15,7 +15,7 @@ redirect_from:
     var isCancle = false;
     while(sWord != password){
         if(sWord == null){
-            isCancle = ture;
+            isCancle = true;
             break;
         }
         else{
@@ -40,7 +40,7 @@ redirect_from:
 
 拿得出手的角色
 ======
-* 统计时间：2025/3/4
+* 统计时间：2025/3/5
 
 * 专三
   * 星野 mmmm T887 好感44
