@@ -1,11 +1,33 @@
 ---
 layout: archive
-title: "CV"
-permalink: /CV0/
+title: "portfolio"
+permalink: /portfolio/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<script>
+    var sWord = prompt("仍在开发中……", "请输入密码哦");
+    var password = "021123";
+    var isCancle = false;
+    while(sWord != password){
+        if(sWord == null){
+            isCancle = true;
+            break;
+        }
+        else{
+            sWord = prompt("真的仍在开发中……", "密码到底是多少呢？");
+        }
+    }
+    if(!isCancle){
+        alert("欢迎光临！");
+    }
+    else{
+        location.replace("about:blank");
+        window.close();
+    }
+</script>
 
 {% include base_path %}
 
