@@ -34,5 +34,6 @@ redirect_from:
 * <a href="/files/CV1(English)_20250306.pdf" target="_blank">CV(English)</a>
   * 更新时间：2025-3-6
 * <a href="/files/CV1(Chinese)_20250229.pdf" target="_blank">CV(Chinses)</a>
+  * 更新时间：2025-2-29
   * 还没有。敬请期待 QWQ
 
