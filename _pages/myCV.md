@@ -37,8 +37,9 @@ redirect_from:
 * 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;M/F: Male
 * 生日：2002.11.23&emsp;&emsp;Birth: 2002/11/23
 * 手机号：+86 18005305225&emsp;&emsp;Phone: +86 18005305225
-* 邮箱：1091771886@qq.com&emsp;yanagiha@163.com
-* Mail: 1091771886@qq.com&emsp;yanagiha@163.com
+* 邮箱：1091771886@qq.com&emsp;&ensp;yanagiha@163.com
+* Mail:&emsp;1091771886@qq.com&emsp;&ensp;yanagiha@163.com
+* QQ：1091771886
 * Bilibili: 绘月照星野
 
 * 更新时间：2025.3.6
