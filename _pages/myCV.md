@@ -33,9 +33,9 @@ redirect_from:
 
 信息
 =====
-* 姓名：刘一赫&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Name: Liu Yihe
-* 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;M/F: Male
-* 生日：2002.11.23&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Birth: 2002/11/23
+* 姓名：刘一赫&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Name: Liu Yihe
+* 性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;M/F: Male
+* 生日：2002.11.23&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Birth: 2002/11/23
 * 手机号：+86 18005305225&emsp;&emsp;Phone: +86 18005305225
 * 邮箱：1091771886@qq.com&emsp;&ensp;yanagiha@163.com
 * Mail:&emsp;1091771886@qq.com&emsp;&ensp;yanagiha@163.com
