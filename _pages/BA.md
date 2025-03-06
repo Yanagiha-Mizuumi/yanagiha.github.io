@@ -66,8 +66,8 @@ redirect_from:
   * 桃 m7mm T847 好感24
   * 梓 mmmm T777 好感23
   * 佳代子 m5m5 T668 好感22
-  * 茜 mmmm T887 好感21
   * 妮露 4mm7 T8772 好感22
+  * 茜 mmmm T887 好感21
   * 千世 mmm8 T747 好感20
   * 体莲见 mmmm T777 好感19
 
