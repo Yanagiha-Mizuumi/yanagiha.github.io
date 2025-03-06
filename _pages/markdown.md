@@ -29,6 +29,10 @@ redirect_from:
     }
 </script>
 
+## Links
+* <a href="https://github.com/Yanagiha-Mizuumi/" target="_blank">我的Github</a>
+<br><br>
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
