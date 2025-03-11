@@ -40,10 +40,10 @@ redirect_from:
 * 邮箱：1091771886@qq.com&emsp;&ensp;yanagiha@163.com
 * Mail:&emsp;1091771886@qq.com&emsp;&ensp;yanagiha@163.com
 * QQ：1091771886
-* Bilibili: 绘月照星野
+* Bilibili：<a href="https://space.bilibili.com/1986845884?spm_id_from=333.1007.0.0" target="_blank">绘月照星野</a>
 <br>
 
-* 更新时间：2025.3.6
+* 更新时间：2025.3.7
 
 <br><br>
 
