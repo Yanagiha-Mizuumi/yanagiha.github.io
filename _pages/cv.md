@@ -37,7 +37,7 @@ redirect_from:
   * 2024 春、夏
   * 队友：六加六
   * Soc设计、FPGA系统、Verilog HDL、ARM架构、C语言。
-  * 硬件：EGO1开发板（FPGA芯型号XC7A35T-1CSG324C）。
+  * 硬件：EGO1开发板（FPGA芯片型号XC7A35T-1CSG324C）。
   * 我的负责：在FPGA上设计、搭建ARM Cortex-M0系统。
 
 * 基于AXI总线的UART3模块前端设计
