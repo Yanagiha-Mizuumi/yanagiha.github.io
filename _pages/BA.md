@@ -74,6 +74,7 @@ redirect_from:
   * 泉奈 mmmm T887 好感30
   * 真纪 mmmm T887 好感29
   * 伊吕波 mmmm T877 好感28
+  * 响 mmmm T777 好感28
   * 伊织 mmmm T888 好感27
   * 椿 mmmm T787 好感27
   * 睦月 4mm6 T777 好感26
@@ -93,7 +94,6 @@ redirect_from:
 * 专二
   * 水日奈 mmmm T8872 好感30
   * 日鞠 mmmm T887 好感29
-  * 响 mmmm T777 好感28
   * 亚子 mmmm T877 好感28
   * 瞬 mmmm T877 好感27
   * 春睦月 mmmm T887 好感26
