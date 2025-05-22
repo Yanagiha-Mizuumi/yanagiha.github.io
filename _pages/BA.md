@@ -68,7 +68,6 @@ redirect_from:
   * 水星野 专三 mmmm T888 好感46+50
   * 日奈 专一 2421 T321 好感22+33（61级）
 <br>
-
 * 上一期助力者出战情况
   * S47总力战：野外·气垫船
     * 未花 专三 mmmm T888 好感50
@@ -211,7 +210,8 @@ redirect_from:
 
 <br><br>
 
-## Links（Wiki）
+Links（Wiki）
+=====
  * <a href="https://kivo.wiki/" target="_blank">基沃托斯古书馆</a>
  * <a href="https://schaledb.com/home" target="_blank">Schale DB</a>
  * <a href="https://www.gamekee.com/ba/" target="_blank">GamekeeWiki</a>
