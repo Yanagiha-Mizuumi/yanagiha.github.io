@@ -239,3 +239,8 @@ Links（Wiki）
   * <a href="https://arona.icu/" target="_blank">蔚蓝档案-什亭之匣</a>
   * <a href="https://ba.game-db.tw/" target="_blank">BA素材表</a>
   * <a href="https://arona.ai/" target="_blank">Arona.AI（韩WIKI，计算工具）</a>
+
+Links（Others）
+=====
+  * <a href="https://baguessstudents.github.io/" target="_blank">蔚蓝档案猜学生小游戏（国服）</a>
+  * <a href="https://acgn.ttson.cn/" target="_blank">二次元AI配音（文本转语音）</a>
