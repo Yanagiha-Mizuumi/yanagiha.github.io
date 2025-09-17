@@ -1,7 +1,7 @@
 ---
 layout: archive-BA
-title: "BA"
-permalink: /BA/
+title: "BA_memo"
+permalink: /BA_MEMO/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <script>
-    var sWord = prompt("请输入密码哦", "");
-    var password = "1234567";
+    var sWord = prompt("自用，自用，自用！", "请输入密码哦");
+    var password = "021123";
     var isCancle = false;
     while(sWord != password){
         if(sWord == null){
@@ -19,7 +19,7 @@ redirect_from:
             break;
         }
         else{
-            sWord = prompt("请输入密码", "密码到底是多少呢？");
+            sWord = prompt("真的是自用网页啦", "密码到底是多少呢？");
         }
     }
     if(!isCancle){
@@ -52,7 +52,7 @@ redirect_from:
 
 <br><br>
 
-本期助力者（已停更）
+本期助力者
 ======
 * 更新时间：2025/8/2
 * 总力战&联合作战&大决战
@@ -266,3 +266,4 @@ Links（Others）
   * <a href="https://acgn.ttson.cn/" target="_blank">二次元AI配音（文本转语音）</a>
 
 
+  
